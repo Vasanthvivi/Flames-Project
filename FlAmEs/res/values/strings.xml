@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FlAmEs</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_mainn">MainActivity</string>
+    <string name="title_activity_main_activity3">MainActivity3</string>
+    <string name="title_activity_main_activity4">MainActivity4</string>
+    <string name="title_activity_main_activityt">MainActivityt</string>
+    <string name="title_activity_main_activitylov">MainActivitylov</string>
+    <string name="title_activity_main_activityl">MainActivityl</string>
+    <string name="title_activity_main_activityaf">MainActivityaf</string>
+    <string name="title_activity_main_activitymar">MainActivitymar</string>
+    <string name="title_activity_main_activityene">MainActivityene</string>
+    <string name="title_activity_main_activityenemy">MainActivityenemy</string>
+    <string name="title_activity_main_activitysib">MainActivitysib</string>
+    <string name="title_activity_main_activityweb">MainActivityweb</string>
+
+</resources>

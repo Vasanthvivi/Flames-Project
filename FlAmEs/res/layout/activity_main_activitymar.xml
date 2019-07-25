@@ -1,0 +1,135 @@
+<ScrollView
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     >
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:background="#B2EBF2"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/t1"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans"
+        android:text="Let the wife makes the husband glad to come home,and let him make her sorry to see him leave...BY MARTIN LUTHER"
+        />
+
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="A good marriage would be between a blind wife and a deaf husband"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="There is no more lovely, friendly and charming relationship,communion or company than a good marriage...BY MARTIN LUTHER"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="A good husband makes a good wife...BY JOHN FLORIO"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Happy is the man who finds a true friend,and far happier is he who finds that true friend in his wife...BY FRANZ SCHUBERT"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="It is not a lack of love,but a lack of friendship that makes unhappy marriages...BY FRIEDRICH NIETZSCHE"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="My most brilliant achievement was my ability to be able to persuade my wife to marry me...BY WINSTON CHURCHIL"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="The secret of a marriage is finding the rigth person.You know they are right if you love to be with them all the time...BY JULIA CHILD"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="When a man opens a car door for his wife,it's either a new car or a new wife...BY PRINCE PHILLIP"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="A successful marriage requires falling in love many times,always with the same person...BY MIGNON MCLAUGHLIN"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<Button 
+    android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:id="@+id/mab"
+        android:text="Go Back"
+        android:textSize="18dp"
+        android:typeface="sans"
+        
+    />
+</LinearLayout>
+</ScrollView>

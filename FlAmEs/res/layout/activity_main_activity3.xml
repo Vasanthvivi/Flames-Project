@@ -1,0 +1,104 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#E0F7FA"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity3" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="53dp"
+        android:text="FLAMES"
+        android:textStyle="bold|italic"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#616161"
+        android:textSize="22dp"
+         />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"
+        android:textSize="18dp"
+        android:textColor="#616161"
+        android:textStyle="italic"
+        android:text="Hey Buddy,You can know Your Relationship with others.. "
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_below="@+id/textView2"
+        android:layout_marginTop="17dp"
+        android:text="How to use?"
+        android:textStyle="bold|italic" 
+        android:textColor="#616161"
+        android:textSize="22dp" />
+
+    <Button
+        android:id="@+id/share"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_below="@+id/textView4"
+        android:layout_marginTop="22dp"
+        android:textColor="#616161"
+        android:textSize="22dp"
+        android:textStyle="bold|italic"
+        android:text="Send link via" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_below="@+id/textView3"
+        android:layout_marginTop="14dp"
+        android:text="Enter your name and other name which you want to know the Relationship,then submit."
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/get"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/share"
+        android:layout_below="@+id/share"
+        android:layout_marginTop="18dp"
+        android:text="Get Back"
+        android:textColor="#616161"
+        android:textSize="22dp"
+        android:textStyle="bold|italic" />
+
+    <Button
+        android:id="@+id/feed"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/textView3"
+        android:layout_below="@+id/get"
+        android:layout_marginTop="18dp"
+        android:text="Feedback"
+        android:textColor="#616161"
+        android:textSize="22dp"
+        android:textStyle="bold|italic" />
+
+</RelativeLayout>

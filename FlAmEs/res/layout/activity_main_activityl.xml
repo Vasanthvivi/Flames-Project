@@ -1,0 +1,135 @@
+<ScrollView
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     >
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:background="#B2EBF2"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/t1"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans"
+        android:text="If music be the food of love play on...BY WILLIAM SHAKESPHERE"
+        />
+
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="There is nothing I would not do for those who are really my friends.I have no notion  of loving people by halves,it is not my nature...JANE AUSTON"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Love is that condition in which the happiness of another person is essential to your own...BY ROBERT A.HEINLEIN"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Being deeply loved by someone gives you strength,while loving someone deeply gives you courage...BY LAO TZU"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="I Love you without knowing how or when or from where.I love you simply,without problems or pride.I love you in this way because i dont know any other way of loving but this,in which there is no I or You,So intimate that your hand upon my chest is my hand,so intimate that when i fall asleep your eyes close...BY PABLO NERUDA"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Give in love to fear or live in fear...BY JONATHAN LARSON"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="I carry your heart(I carry it in my heart...BY EE CUMMINGS"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="You deserve love and you'll get it...AMY POEHLER"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Love is a fire.But whether it is going to warm your hearth  or burn down your house,you can never tell...JOAN CRAWFORD"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="We accept the love,we think we deserve...STEPHEN CHBOSKY"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<Button 
+    android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:id="@+id/lob"
+        android:text="Go Back"
+        android:textSize="18dp"
+        android:typeface="sans"
+        
+    />
+</LinearLayout>
+</ScrollView>

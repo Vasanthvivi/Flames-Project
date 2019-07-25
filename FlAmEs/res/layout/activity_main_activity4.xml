@@ -1,0 +1,135 @@
+<ScrollView
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     >
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:background="#B2EBF2"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/t1"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans"
+        android:text="Share your smile with the world.It is a symbol of friendship and peace...BY CHRISTIE BRINKLEY"
+        />
+
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="The Greatest gift of life is friendship and You have received it...BY HUBERT H.HUMPHREY"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="One of the most beautiful qualities of true freindship is to understand and to be understood...BY LUCIUS ANNAEUS SENECA"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Walking with the friend in the dark is better than walking alone in the light...BY HELEN KELLER"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Friends are the siblings God never gave us...BY MENCIUS"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Friends show their love in times of trouble,not in happiness...BY EURIPIDES"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="My best friend is the one who brings out the best in me...BY HENRY FORD"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="There is nothing on this earth more to be prized than true friendship...BY THOMAS AQUINAS"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="It is one of the old blessings of old friends that you can afford to be stupid with them...BY RALPH WALDO EMERSON"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Love is friendship that has caught fire.It is quiet understanding,mutual confidence,sharing and forgiving.It is loyalty through good and bad times.It settles for less than perfection and makes allowance for human weaknesses...BY ANN LANDERS"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<Button 
+    android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:id="@+id/frb"
+        android:text="Go Back"
+        android:textSize="18dp"
+        android:typeface="sans"
+        
+    />
+</LinearLayout>
+</ScrollView>

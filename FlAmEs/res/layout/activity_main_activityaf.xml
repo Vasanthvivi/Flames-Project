@@ -1,0 +1,135 @@
+<ScrollView
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     >
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:background="#B2EBF2"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/t1"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans"
+        android:text="Love is not to be purchased,and affection has no price...ST JEROME"
+        />
+
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="You,yourself ,as much as anybody in the entire universe,deserve your love and affection...BY BUDDHA"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="We can live without religion and meditation,but we cannot survive without human affection...BY DALAI LAMA"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Never regret anything you have done with a sincere affection;nothing is lost that is born of the heart...BASIL RATHBONE"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="I was born with an enormous need of affection,and a terrible need to give it...BY AUDREY HEPBURN"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Affection is responsible for nine-tenths of whatever solid and durable happiness there is in our lives...BY C.S LEWIS"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="The fact is that people are good,Give people affection and security,and they will give affection and be secure in their feelings and their behaviour...BY ABRAHAM MASLOW"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="I love,but i'm not sure how to be loved:how to be seen and known for the utterly flawed woman i am,it demands surrender.It demands acknowledging that i'm not perfect,perhaps i deserve affection anyway...BY ROXANE GAY"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="If equal affection cannot be,let the more loving be me...W.H.AUDEN"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Talk not of wasted affection-affection never was wasted...BY HENRY WORDSWORTH LONGFELLOW"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<Button 
+    android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:id="@+id/afb"
+        android:text="Go Back"
+        android:textSize="18dp"
+        android:typeface="sans"
+        
+    />
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,135 @@
+<ScrollView
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     >
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:background="#B2EBF2"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/t1"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans"
+        android:text="Never interrupt your enemy when he is making a mistake...BY NAPOLEAN BONAPARTE"
+        />
+
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Anger is the enemy of non-violence and pride is a monster that swallows it up...BY MAHATMA GANDHIJI"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Communism is not love,Communism is a hammer which we use to crush the enemy...BY MAO ZEDONG"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="You must not fight too often with one enemy,or you will teach him all your art of war...BY NAPOLEAN BONAPARTE"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="A wise woman wishes to be no one's enemy;a wise woman refuses to be anyone's victim...BY MAYA ANGELOU"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="If you know the enemy and know yourself you need not fear the results of a hundred battles...BY SUN TZU"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Love is the only force capable of transforming an enemy into friend...BY MARTIN LUTHER KING,JR "
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Conformity is the jailer of freedom and the enemy of growth...BY JOHN F.KENNEDY"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="Alchohol may be man's worst enemy,but the bible says love your enemies...FRANK SINATRA"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<TextView
+        android:id="@+id/t1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:text="The supreme art of war is to subdue the enemy without fighting...BY SUN TZU"
+        android:textColor="#616161"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        android:typeface="sans" />
+<Button 
+    android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:id="@+id/enemb"
+        android:text="Go Back"
+        android:textSize="18dp"
+        android:typeface="sans"
+        
+    />
+</LinearLayout>
+</ScrollView>
